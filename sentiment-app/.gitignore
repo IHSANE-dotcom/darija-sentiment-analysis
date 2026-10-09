@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Angular / Node.js
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
